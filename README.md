@@ -1,2 +1,4 @@
-# veri_bilimi_makine_ogrenim
-Atıl Samancıoğlu
+# Veri Bilimi ve Makine Ögrenimi
+
+100 gün challenge by Atıl Samancıoğlu
+
